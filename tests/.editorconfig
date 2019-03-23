@@ -1,0 +1,2 @@
+# We want to avoid all rules in this directory.
+root = true
